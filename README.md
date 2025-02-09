@@ -31,17 +31,20 @@
 
   
   ## 🚀 Программы и сервисы:
-  
-  
+ 
   ### 📁 Тестовая документация:
-  <div>
+<div>
   <img src="https://plugins.jetbrains.com/files/8215/590468/icon/pluginIcon.svg" title="YouTrack" alt="youtrack" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/144px-Logo_Yandex_Tracker_2021.svg.png" title="Яндекс Трекер" alt="test-it" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/144px-Logo_Yandex_Tracker_2021.svg.png" title="Яндекс Трекер" alt="Yandex Tracker" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40">
 </div>
   
   ### 🛠 Тестирование веб-приложений:
-
+<div>
+  <img src="https://github.com/ChromeDevTools/devtools-logo/raw/master/logos/svg/chrome-devtools-square-responsive.svg" title="DevTools" alt="Devtools" width="40" height="40">
+  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="Postman" alt="Postman" width="40" height="40"> 
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles" alt="Charles" width="40" height="40">
+</div>
 
   
   ### 📱 Тестирование мобильных приложений:
