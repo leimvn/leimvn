@@ -12,14 +12,14 @@
  <br> 📚 В декабре 2024 года закончила курс по "Инженер по тестированию" от Яндекс Практикум.<br>⚡ В настоящий момент прохожу курс Продвинутый SQL.</p>
   
   ## 📞 Для связи:
-  <p align="left">
+  <div align="left">
     <a href="https://t.me/leimvn" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="mailto:vrnklmn21@gmail.com" target="_blank">
        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="telegram">  
     </a>
-  </p>
+    </div>
   
   ## 🧪 Мои QA-проекты:
   Проекты, над которыми я работала в рамках изучения тестирования:
@@ -31,10 +31,14 @@
 
   
   ## 🚀 Программы и сервисы:
-
+  
   
   ### 📁 Тестовая документация:
-  
+  <div>
+  <img src="https://plugins.jetbrains.com/files/8215/590468/icon/pluginIcon.svg" title="YouTrack" alt="youtrack" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/144px-Logo_Yandex_Tracker_2021.svg.png" title="Яндекс Трекер" alt="test-it" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40">
+</div>
   
   ### 🛠 Тестирование веб-приложений:
 
