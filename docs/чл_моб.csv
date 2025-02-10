@@ -1,4 +1,4 @@
-S.No.,Test Case,"Type of Test Case
+No.,Test Case,"Type of Test Case
 (Positive / Negative)",Remarks
 1,Можно перемещаться по карте свайпом,Passed
 2,Карта масштабируется пинчем и спредом,Passed
