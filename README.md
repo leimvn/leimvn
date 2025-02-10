@@ -51,9 +51,9 @@
   ---
   
   ## 🎓 Сертификаты:
-<div>
+<div align="left">
  <a href="https://disk.yandex.ru/i/kRhQFbriNCO26A" target="_blank">
-    <img src="https://disk.yandex.ru/i/R0Yb9QBqyVvWYg" alt="QA Certificate" width="180">
+    <img src="" alt="QA Certificate" width="180" height="100">
   </div>
    
   ---
