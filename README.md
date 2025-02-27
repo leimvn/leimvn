@@ -24,7 +24,7 @@
   ## 🚀 Программы и сервисы:
  
 <div>
-  <img src="https://plugins.jetbrains.com/files/8215/590468/icon/pluginIcon.svg" title="YouTrack" alt="youtrack" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/YouTrack_icon.svg" title="YouTrack" alt="youtrack" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_Yandex_Tracker_2021.svg/144px-Logo_Yandex_Tracker_2021.svg.png" title="Яндекс Трекер" alt="Yandex Tracker" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40">
   <img src="https://i.pinimg.com/originals/8b/c8/a9/8bc8a953d8141de37918990367f47588.png" title="Adobe Photoshop" alt="photoshop" width="52" height="40">
